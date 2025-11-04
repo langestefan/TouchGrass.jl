@@ -1,2 +1,3 @@
 # TouchGrass.jl
-For when someone tells you to 'touch grass'.
+
+Someone told you to touch grass? Well, now you can. From the REPL.
